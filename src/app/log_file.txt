@@ -1,0 +1,108 @@
+Time: 06.09.2022.:21:35:33,87  
+Zagreb :  Succes
+Novi Sad :  Succes
+Osijek :  Succes
+Beograd :  Succes
+Split :  Succes
+Dubrovnik :  Succes
+Slavonski Brod :  Succes
+-----------------------------------------------------------------  
+Time: 06.09.2022.:21:38:32,89  
+Zagreb :  Succes
+Novi Sad :  Succes
+Osijek :  Succes
+Beograd :  Succes
+Split :  Succes
+Dubrovnik :  Succes
+Slavonski Brod :  Succes
+-----------------------------------------------------------------  
+Time: 06.09.2022.:21:50:00,55  
+Zagreb :  Succes
+Novi Sad :  Succes
+Osijek :  Succes
+Beograd :  Succes
+Split :  Succes
+Dubrovnik :  Succes
+Slavonski Brod :  Succes
+-----------------------------------------------------------------  
+Time: 06.09.2022.:22:30:34,34  
+Zagreb :  Succes
+Novi Sad :  Succes
+Osijek :  Succes
+Beograd :  Succes
+Split :  Succes
+Dubrovnik :  Succes
+Slavonski Brod :  Succes
+-----------------------------------------------------------------  
+Time: 06.09.2022.:22:31:16,92  
+Zagreb :  Succes
+Novi Sad :  Succes
+Osijek :  Succes
+Beograd :  Succes
+Split :  Succes
+Dubrovnik :  Succes
+Slavonski Brod :  Succes
+-----------------------------------------------------------------  
+Time: 12.09.2022.:12:14:40,35  
+Zagreb :  Succes
+Novi Sad :  Succes
+Osijek :  Succes
+Beograd :  Succes
+Split :  Succes
+Dubrovnik :  Succes
+Slavonski Brod :  Succes
+-----------------------------------------------------------------  
+Time: 13.09.2022.:14:00:01,88  
+Zagreb :  Succes
+Novi Sad :  Succes
+Osijek :  Succes
+Beograd :  Succes
+Split :  Succes
+Dubrovnik :  Succes
+Slavonski Brod :  Succes
+-----------------------------------------------------------------  
+Time: 14.09.2022.:14:00:02,01  
+Zagreb :  Succes
+Novi Sad :  Succes
+Osijek :  Succes
+Beograd :  Succes
+Split :  Succes
+Dubrovnik :  Succes
+Slavonski Brod :  Succes
+-----------------------------------------------------------------  
+Time: 15.09.2022.:14:18:02,88  
+Zagreb :  Succes
+Novi Sad :  Succes
+Osijek :  Succes
+Beograd :  Succes
+Split :  Succes
+Dubrovnik :  Succes
+Slavonski Brod :  Succes
+-----------------------------------------------------------------  
+Time: 16.09.2022.:14:00:01,76  
+Zagreb :  Succes
+Novi Sad :  Succes
+Osijek :  Succes
+Beograd :  Succes
+Split :  Succes
+Dubrovnik :  Succes
+Slavonski Brod :  Succes
+-----------------------------------------------------------------  
+Time: 19.09.2022.:10:32:54,61  
+Zagreb :  Succes
+Novi Sad :  Succes
+Osijek :  Succes
+Beograd :  Succes
+Split :  Succes
+Dubrovnik :  Succes
+Slavonski Brod :  Succes
+-----------------------------------------------------------------  
+Time: 20.09.2022.:14:00:01,78  
+Zagreb :  Succes
+Novi Sad :  Succes
+Osijek :  Succes
+Beograd :  Succes
+Split :  Succes
+Dubrovnik :  Succes
+Slavonski Brod :  Succes
+-----------------------------------------------------------------  
